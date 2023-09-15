@@ -1,8 +1,8 @@
-[![MasterHead]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mywebworld.in%2Fweb-design-company-kerala-india%2F&psig=AOvVaw0NqQXuhMdK27JtcCplHzY-&ust=1694886778805000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIiHvLuXrYEDFQAAAAAdAAAAABAJ](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif))]
+[![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)]
 
 <h1 align="center">Hi 👋, I'm Divyam Rastogi</h1>
 <h3 align="center">A passionate and budding web developer from India</h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt=""/>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt=""/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyam1201&label=Profile%20views&color=0e75b6&style=flat" alt="divyam1201" /> </p>
