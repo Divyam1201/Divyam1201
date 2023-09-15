@@ -1,4 +1,4 @@
-[![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)]
+![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)
 
 <h1 align="center">Hi 👋, I'm Divyam Rastogi</h1>
 <h3 align="center">A passionate and budding web developer from India</h3>
